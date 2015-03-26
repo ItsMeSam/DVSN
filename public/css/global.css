@@ -1,0 +1,19 @@
+.parallax-container img 
+{
+	background-size:cover;
+}
+        
+.page-footer-fixed
+{
+	position:absolute;
+	width:100%;
+	bottom:0;
+}
+
+.contents
+{
+	position:fixed;
+	height:60%;
+	width:100%;
+	overflow:auto;
+}
